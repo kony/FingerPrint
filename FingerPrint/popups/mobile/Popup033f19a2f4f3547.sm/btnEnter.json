@@ -1,0 +1,33 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        0,
+        1,
+        1
+    ],
+    "_padding_": [
+        4,
+        4,
+        4,
+        4
+    ],
+    "_skin_": "sc3c72ce40384f4d9f764b8748c56f3b",
+    "_text_": "Enter Password",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa9f58e4b4d44b2fb600e423d1cce71a",
+    "id": "btnEnter",
+    "ide_onClick": "AS_Button_3e00a1924d22434b9569df2614a204a0",
+    "info": null,
+    "isvisible": false,
+    "kuid": "77e8451bd8e34c63bf71fddc66f2b59f",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "parent": "VBox0b833218a771840",
+    "pf": "Popup033f19a2f4f3547",
+    "wType": "Button"
+}

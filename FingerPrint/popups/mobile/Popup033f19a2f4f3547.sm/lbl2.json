@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s78c11f326c941599d7c48f38e3d8e1c",
+    "_text_": "PLEASE AUTHENTICATE USING YOUR FINGER PRINT",
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lbl2",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "7b3e58a522d84251b1a9fa45e91d8c37",
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "VBox0b833218a771840",
+    "pf": "Popup033f19a2f4f3547",
+    "tooltip": "",
+    "wType": "Label"
+}

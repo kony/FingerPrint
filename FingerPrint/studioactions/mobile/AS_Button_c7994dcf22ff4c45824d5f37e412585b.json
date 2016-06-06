@@ -1,0 +1,18 @@
+{
+    "AS_Button_c7994dcf22ff4c45824d5f37e412585b": {
+        "id": "AS_Button_c7994dcf22ff4c45824d5f37e412585b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "DISMISS_POPUP___9d919e7146aa4d4990981353c3d690fe",
+            "type": "DISMISS_POPUP",
+            "popupId": "Popup033f19a2f4f3547",
+            "popupKUID": "583a74c73dd0483f83b2b91dbdf7dd4d",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

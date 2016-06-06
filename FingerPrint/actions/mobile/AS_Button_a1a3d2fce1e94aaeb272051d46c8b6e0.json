@@ -1,0 +1,25 @@
+{
+    "AS_Button_a1a3d2fce1e94aaeb272051d46c8b6e0": {
+        "id": "AS_Button_a1a3d2fce1e94aaeb272051d46c8b6e0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f9f242cd584f40489d4b9fb117891c9b"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7fc6ebbd781c40b0b5022de4c6e0ae3f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "authUsingTouchID",
+            "display": "authUsingTouchID",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

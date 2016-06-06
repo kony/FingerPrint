@@ -1,0 +1,24 @@
+{
+    "AS_Button_3e00a1924d22434b9569df2614a204a0": {
+        "id": "AS_Button_3e00a1924d22434b9569df2614a204a0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Popup033f19a2f4f3547",
+            "type": "popups",
+            "platform": null,
+            "KUID": "583a74c73dd0483f83b2b91dbdf7dd4d"
+        },
+        "actions": [{
+            "id": "DISMISS_POPUP___7d27a9cae20343c8b6684dd9cc8cca1a",
+            "type": "DISMISS_POPUP",
+            "popupId": "Popup033f19a2f4f3547",
+            "popupKUID": "583a74c73dd0483f83b2b91dbdf7dd4d",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

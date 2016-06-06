@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "58dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfbef97514344235a151c9933b28d0df",
+    "_text_": "Login Finger Print",
+    "_top_": {
+        "type": "string",
+        "value": "520dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.96%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa45fe6ae09f458ea999f8e2b6184994",
+    "id": "Button08d62fc5c6a6543",
+    "ide_onClick": "AS_Button_264560fd22464b9d99df49ee7d9d1ff7",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9e7a54979a8344bab435c61d9ef8b7b5",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a1a3d2fce1e94aaeb272051d46c8b6e0",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "wType": "Button"
+}

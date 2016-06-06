@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sea5b209b32f4d649582ecac3d345fdd",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "HBox09b8a8c260c6747"
+    ],
+    "containerheight": 30,
+    "containerheightreference": 1,
+    "containerweight": 80,
+    "currentLocale": null,
+    "desktopweb": {
+        "psp": {
+            "titleBarConfig": {
+                "closeIcon": "close.png",
+                "maxIcon": "max.png",
+                "minIcon": "min.png"
+            }
+        }
+    },
+    "device": "iPhone6",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "Popup033f19a2f4f3547",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ismodal": true,
+    "isvisible": true,
+    "kuid": "583a74c73dd0483f83b2b91dbdf7dd4d",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "titlebar": true,
+    "transparencybehindthepopup": 40,
+    "wType": "Popup"
+}

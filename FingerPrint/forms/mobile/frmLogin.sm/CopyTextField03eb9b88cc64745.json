@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": " Password",
+    "_skin_": "s064b6d93a9543698c9f9daa7f56d132",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "115dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.04%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyTextField03eb9b88cc64745",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "b7e96453380348fc9697978de5d0ddae",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexContainer05e7c3da9ee364a",
+    "pf": "frmLogin",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}
